@@ -22,7 +22,7 @@ showcasing how to output the metadata of the NFTs to the console.
 
 ## Video Demo
 
-[Watch my Explanation](link-to-your-video)
+[Watch my Explanation](https://www.loom.com/share/33d2cd2a71fd41f899c591c1fb0698bd?sid=afb5a15c-c457-4d53-a9d8-cb7e0ec6eb0f)
 
 ## OUTPUT
 ![OUTPUT](screenshot.png)
